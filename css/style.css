@@ -299,7 +299,7 @@ a:hover {
 .portfolio h3,
 .agileinfosclients h3,
 .wthreetestimonials h3,
-.contact h3 {
+.contact h3, #portfolio {
 	font-size: 50px;
 	font-weight: 700;
 	margin-bottom: 50px;

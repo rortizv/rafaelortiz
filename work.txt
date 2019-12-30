@@ -1,0 +1,127 @@
+<div class="portfolio w3layouts agileits" id="portfolio">
+		<div class="container">
+
+			<h3>MY WORK</h3>
+
+			<!-- <ul class="simplefilter w3layouts agileits">
+				<li class="active w3layouts agileits" data-filter="all">All</li>
+				<li data-filter="1">Webpages</li>
+				<li data-filter="2">Designs</li>
+			</ul> -->
+
+			<div class="filtr-container w3layouts agileits">
+
+				<div class="filtr-item w3layouts agileits portfolio-t" data-category="1" data-sort="Busy streets">
+					<a href="images/portfolio-1.jpg" class="b-link-stripe w3layouts agileits b-animate-go thickbox">
+						<figure>
+							<img src="images/portfolio-1.jpg" class="img-responsive w3layouts agileits"
+								alt="Affiliation">
+							<figcaption>
+								<h3 style="font-size: 18px;"><a href="www.ruffosaborautentico.com" class="text-center"
+										target="_blank">www.ruffosaborautentico.com</a></h3>
+							</figcaption>
+						</figure>
+					</a>
+				</div>
+
+				<div class="filtr-item w3layouts agileits" data-category="2" data-sort="Luminous night">
+					<a href="images/portfolio-2.jpg" class="b-link-stripe w3layouts agileits b-animate-go thickbox">
+						<figure>
+							<img src="images/portfolio-2.jpg" class="img-responsive w3layouts agileits"
+								alt="Affiliation">
+							<figcaption>
+								<h3>OPULENT</h3>
+							</figcaption>
+						</figure>
+					</a>
+				</div>
+
+				<div class="filtr-item w3layouts agileits" data-category="1" data-sort="City wonders">
+					<a href="images/portfolio-3.jpg" class="b-link-stripe w3layouts agileits b-animate-go thickbox">
+						<figure>
+							<img src="images/portfolio-3.jpg" class="img-responsive w3layouts agileits"
+								alt="Affiliation">
+							<figcaption>
+								<h3>OPULENT</h3>
+							</figcaption>
+						</figure>
+					</a>
+				</div>
+
+				<div class="filtr-item w3layouts agileits" data-category="2" data-sort="In production">
+					<a href="images/portfolio-4.jpg" class="b-link-stripe w3layouts agileits b-animate-go thickbox">
+						<figure>
+							<img src="images/portfolio-4.jpg" class="img-responsive w3layouts agileits"
+								alt="Affiliation">
+							<figcaption>
+								<h3>OPULENT</h3>
+							</figcaption>
+						</figure>
+					</a>
+				</div>
+
+				<div class="filtr-item w3layouts agileits" data-category="1" data-sort="Industrial site">
+					<a href="images/portfolio-5.jpg" class="b-link-stripe w3layouts agileits b-animate-go thickbox">
+						<figure>
+							<img src="images/portfolio-5.jpg" class="img-responsive w3layouts agileits"
+								alt="Affiliation">
+							<figcaption>
+								<h3>OPULENT</h3>
+							</figcaption>
+						</figure>
+					</a>
+				</div>
+
+				<div class="filtr-item w3layouts agileits" data-category="1" data-sort="Peaceful lake">
+					<a href="images/portfolio-6.jpg" class="b-link-stripe w3layouts agileits b-animate-go thickbox">
+						<figure>
+							<img src="images/portfolio-6.jpg" class="img-responsive w3layouts agileits"
+								alt="Affiliation">
+							<figcaption>
+								<h3>OPULENT</h3>
+							</figcaption>
+						</figure>
+					</a>
+				</div>
+
+				<div class="filtr-item w3layouts agileits" data-category="2" data-sort="City lights">
+					<a href="images/portfolio-7.jpg" class="b-link-stripe w3layouts agileits b-animate-go thickbox">
+						<figure>
+							<img src="images/portfolio-7.jpg" class="img-responsive w3layouts agileits"
+								alt="Affiliation">
+							<figcaption>
+								<h3>OPULENT</h3>
+							</figcaption>
+						</figure>
+					</a>
+				</div>
+
+				<div class="filtr-item w3layouts agileits" data-category="1" data-sort="Dreamhouse">
+					<a href="images/portfolio-8.jpg" class="b-link-stripe w3layouts agileits b-animate-go thickbox">
+						<figure>
+							<img src="images/portfolio-8.jpg" class="img-responsive w3layouts agileits"
+								alt="Affiliation">
+							<figcaption>
+								<h3>OPULENT</h3>
+							</figcaption>
+						</figure>
+					</a>
+				</div>
+
+				<div class="filtr-item w3layouts agileits" data-category="1" data-sort="Dreamhouse">
+					<a href="images/portfolio-9.jpg" class="b-link-stripe w3layouts agileits b-animate-go thickbox">
+						<figure>
+							<img src="images/portfolio-9.jpg" class="img-responsive w3layouts agileits"
+								alt="Affiliation">
+							<figcaption>
+								<h3>OPULENT</h3>
+							</figcaption>
+						</figure>
+					</a>
+				</div>
+				<div class="clearfix"></div>
+
+			</div>
+
+		</div>
+	</div>
