@@ -1145,9 +1145,10 @@ form.contact_form {
 	z-index: 99999;
 	display: none;
 	text-decoration: none;
-	position: fixed;
-	bottom: 0;
-	right: 0;
+	position: sticky;
+	bottom: 15px;
+	left: 15px;
+	/*right: 0;*/
 	overflow: hidden;
 	width: 40px;
 	height: 40px;
