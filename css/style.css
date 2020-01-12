@@ -654,6 +654,7 @@ ul#myList {
 	border: 1px solid #607d8b;
 	font-size: 1.1em;
 	position: relative;
+	margin-top: 300px;
 	transition: 0.5s all ease;
 	-webkit-transition: 0.5s all ease;
 	-moz-transition: 0.5s all ease;
@@ -1165,8 +1166,6 @@ form.contact_form {
 }
 
 /*-- //Go-To-Top-Button --*/
-
-
 
 /*-- Text-Selection-Background-Color --*/
 
@@ -2647,10 +2646,19 @@ form.contact_form {
 
 	.work-info h5 {
 		right: 8%;
+		margin-top: 45px;
+	}
+
+	#contenido{
+		margin-top: 35px;
 	}
 
 	.work-info .work-right2 h4 {
 		margin-left: 185px;
+	}
+
+	#works{
+		margin-top: 300px;
 	}
 
 	.work-info h5.comp {
@@ -2689,6 +2697,18 @@ form.contact_form {
 
 	.work-info h4 {
 		margin-left: 20px;
+	}
+
+	#anio_cbi{
+		margin-top: 150px;
+	}
+
+	#ti_cbi{
+		margin-top: 200px;
+	}
+
+	#contenido2{
+		margin-top: 220px;
 	}
 
 	.work-info .work-right2 h4 {
