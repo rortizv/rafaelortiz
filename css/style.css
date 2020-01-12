@@ -1822,6 +1822,11 @@ form.contact_form {
 		margin-bottom: 35px;
 	}
 
+	#gongli{
+		margin-top: 140px;
+		margin-bottom: 115px;
+	}
+
 	.agileabout h2 {
 		margin-bottom: 35px;
 	}
@@ -2505,6 +2510,14 @@ form.contact_form {
 		letter-spacing: 0;
 		top: 10%;
 		border: 2px solid #FFF;
+	}
+
+	#merma{
+		margin-top: 35px;
+	}
+
+	.merma{
+		margin-top: 30px;
 	}
 
 	.header h2 {
